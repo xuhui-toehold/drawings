@@ -7,20 +7,56 @@
         <mxCell id="0KbTK09zkIhOg32RmNXg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-7" target="0KbTK09zkIhOg32RmNXg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-7" target="0KbTK09zkIhOg32RmNXg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KbTK09zkIhOg32RmNXg-7" value="副总经理（技术）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-704" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-530" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KbTK09zkIhOg32RmNXg-8" value="产品中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1030" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="-960" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0KbTK09zkIhOg32RmNXg-9" value="研究开发部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-704" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="-530" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0KbTK09zkIhOg32RmNXg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-7" target="0KbTK09zkIhOg32RmNXg-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-644" y="130" as="sourcePoint" />
-            <mxPoint x="-970" y="220" as="targetPoint" />
+            <mxPoint x="-470" y="130" as="sourcePoint" />
+            <mxPoint x="-796" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-11" value="测试部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-14" value="监测云产品线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="283" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-15" value="传统监测硬件产品线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="283" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-16" value="视觉监测硬件产品线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="283" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-17" value="智能检测产品线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="283" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-18" value="智能液压产品线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="283" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-19" value="软件开发组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-652" y="283" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-20" value="硬件开发组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-578" y="284" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-21" value="电气与工艺设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="284" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-22" value="结构设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-418" y="284" width="60" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KbTK09zkIhOg32RmNXg-23" value="算法开发组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="284" width="60" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
