@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.7">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2553" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="0KbTK09zkIhOg32RmNXg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0KbTK09zkIhOg32RmNXg-7" target="0KbTK09zkIhOg32RmNXg-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-7" target="-WoLyxWVLuSbDuVdsxPP-7">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0KbTK09zkIhOg32RmNXg-7" target="-WoLyxWVLuSbDuVdsxPP-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KbTK09zkIhOg32RmNXg-7" value="副总经理&lt;div&gt;（技术）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -76,13 +76,13 @@
         <mxCell id="0KbTK09zkIhOg32RmNXg-18" value="智能液压产品线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-770" y="283" width="60" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-19" target="-WoLyxWVLuSbDuVdsxPP-2">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0KbTK09zkIhOg32RmNXg-19" target="-WoLyxWVLuSbDuVdsxPP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-19" target="-WoLyxWVLuSbDuVdsxPP-1">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0KbTK09zkIhOg32RmNXg-19" target="-WoLyxWVLuSbDuVdsxPP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KbTK09zkIhOg32RmNXg-19" target="-WoLyxWVLuSbDuVdsxPP-3">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0KbTK09zkIhOg32RmNXg-19" target="-WoLyxWVLuSbDuVdsxPP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KbTK09zkIhOg32RmNXg-19" value="软件开发组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -100,16 +100,16 @@
         <mxCell id="0KbTK09zkIhOg32RmNXg-23" value="算法开发组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-348" y="284" width="60" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-1" value="嵌入式软件组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-1" value="嵌入式软件组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-732" y="620" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-2" value="云软件组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-2" value="云软件组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-652" y="620" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-3" value="桌面与移动软件组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-3" value="桌面与移动软件组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-576" y="620" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-WoLyxWVLuSbDuVdsxPP-7" value="研发项管助理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-WoLyxWVLuSbDuVdsxPP-7" value="项管助理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-378" y="99" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
